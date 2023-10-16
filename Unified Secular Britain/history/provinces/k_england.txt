@@ -13,9 +13,15 @@
 			curtain_walls_01
 		}
 	}
+	1066.1.1 = {
+		buildings = {
+			the_tower_of_london_01
+			royal_garden_01
+		}
+	}
 }
 1526 = {	#London
-	holding = city_holding
+	holding = church_holding
 }
 1528 = {	#Woxbrigge
 	holding = city_holding
@@ -24,96 +30,65 @@
 	holding = city_holding
 }
 1530 = {	#Brentford
-	holding = church_holding
+	holding = city_holding
 }
 
 ###c_essex
 1514 = {	#Colchester
-	culture = anglo_saxon
-	religion = catholic
+	culture = unified
+	religion = secular
 	holding = castle_holding
-	1100.11.11 = {
-		culture = english
-	}
 }
 1515 = {	#Maldon
 	holding = city_holding
-	#1st mention under this name in 913, but already settled prior
 }
 1516 = {	#Chelmsford
-	holding = none
-	#1199
+	holding = city_holding
 }
 1517 = {	#Dunmow
 	holding = church_holding
-	#Named "Dunemowe" in 951 but already settled before
-	#Set as church_holding to have all 3 holding types
 }
 
 ###c_bedford
 1538 = {	#Bedford
-	culture = anglo_saxon
-	religion = catholic
+	culture = unified
+	religion = secular
 	holding = castle_holding
-	1100.11.11 = {
-		culture = english
-	}
 }
 1539 = {	#Ampthill
-	holding = none
-	950 = {
-		holding = city_holding
-		#Unclear date, some early mentions in XIth, anglo-saxon origins though
-	}
+	holding = city_holding
 }
 1540 = {	#Luton
 	holding = church_holding
-	#Founded around VIth
-	#Set as church_holding to have all 3 holding types
 }
 
 ###c_hertfordshire
 1531 = {	#Berkhamsted
-	culture = anglo_saxon
-	religion = catholic
+	culture = unified
+	religion = secular
 	holding = castle_holding
-	1100.11.11 = {
-		culture = english
-	}
 }
 1532 = {	#Saint Albans
 	holding = church_holding
-	#Big roman city in England
-	#Abbey built in anglo saxon times
 }
 1533 = {	#Hertford
 	holding = city_holding
-	#1st mention in 673
 }
 
 ###c_buckinghamshire
 1551 = {	#Buckingham
-	culture = anglo_saxon
-	religion = catholic
+	culture = unified
+	religion = secular
 	holding = castle_holding
-	1100.11.11 = {
-		culture = english
-	}
 }
 1552 = {	#Aylesbury
 	holding = church_holding
-	#settled before CK timeframe
 }
 1553 = {	#Newport
-	holding = none
-	1066.1.1 = {
-		holding = city_holding
-		#Earliest verifiable mention in 1086
-	}
+	holding = city_holding
 }
 1554 = {	#Wycombe
-	holding = none
-	#1171
+	holding = city_holding
 }
 
 ##d_northumberland ###################################
