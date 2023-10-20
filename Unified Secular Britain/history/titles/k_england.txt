@@ -1,88 +1,309 @@
 k_england = {
 	803.1.1 = {
+		liege "e_britannia"
 		holder = 1000000
+	}
+	819.1.1 = {
+		liege "e_britannia"
+		holder = 1100000
+	}
+	835.1.1 = {
+		liege "e_britannia"
+		holder = 1110000
+	}
+	851.1.1 = {
+		liege "e_britannia"
+		holder = 1111000
 	}
 	867.1.1 = {
 		change_development_level = 15
+		liege "e_britannia"
+		holder = 1111100
 	}
 }
 	d_bedford = {
 		803.1.1 = {
+			liege "k_england"
 			holder = 1000000
+		}
+		819.1.1 = {
+			liege "k_england"
+			holder = 1100000
+		}
+		835.1.1 = {
+			liege "k_england"
+			holder = 1110000
+		}
+		851.1.1 = {
+			liege "k_england"
+			holder = 1111000
 		}
 		867.1.1 = {
 			change_development_level = 20
+			liege "k_england"
+			holder = 1111100
 		}
 	}
 		c_middlesex = {
 			803.1.1 = {
+				liege "d_bedford"
 				holder = 1000000
+			}
+			819.1.1 = {
+				liege "d_bedford"
+				holder = 1100000
+			}
+			835.1.1 = {
+				liege "d_bedford"
+				holder = 1110000
+			}
+			851.1.1 = {
+				liege "d_bedford"
+				holder = 1111000
 			}
 			867.1.1 = {
 				change_development_level = 25
+				liege "d_bedford"
+				holder = 1111100
 			}
 		}
 			b_brentford = {
+				803.1.1 = {
+					liege = "c_middlesex"
+					holder = 1000000
+				}
+				819.1.1 = {
+					liege = "c_middlesex"
+					holder = 1100000
+				}
+				835.1.1 = {
+					liege = "c_middlesex"
+					holder = 1110000
+				}
+				851.1.1 = {
+					liege = "c_middlesex"
+					holder = 1111000
+				}
 				867.1.1 = {
 					liege = "c_middlesex"
 					holder = 1111200
 				}
 			}
 			b_gore = {
+				803.1.1 = {
+					liege = "c_middlesex"
+					holder = 1000000
+				}
+				819.1.1 = {
+					liege = "c_middlesex"
+					holder = 1100000
+				}
+				835.1.1 = {
+					liege = "c_middlesex"
+					holder = 1110000
+				}
+				851.1.1 = {
+					liege = "c_middlesex"
+					holder = 1111000
+				}
 				867.1.1 = {
 					liege = "c_middlesex"
 					holder = 1111300
 				}
 			}
 			b_southwark = {
+				803.1.1 = {
+					liege = "c_middlesex"
+					holder = 1000000
+				}
+				819.1.1 = {
+					liege = "c_middlesex"
+					holder = 1100000
+				}
+				835.1.1 = {
+					liege = "c_middlesex"
+					holder = 1110000
+				}
+				851.1.1 = {
+					liege = "c_middlesex"
+					holder = 1111000
+				}
 				867.1.1 = { 
 					liege = "c_middlesex"
 					holder = 1111400
 				}
 			}
 			b_woxbrigge = {
+				803.1.1 = {
+					liege = "c_middlesex"
+					holder = 1000000
+				}
+				819.1.1 = {
+					liege = "c_middlesex"
+					holder = 1100000
+				}
+				835.1.1 = {
+					liege = "c_middlesex"
+					holder = 1110000
+				}
+				851.1.1 = {
+					liege = "c_middlesex"
+					holder = 1111000
+				}
 				867.1.1 = { 
 					liege = "c_middlesex"
 					holder = 1111500
 				}
 			}
 		c_essex = {
+			803.1.1 = {
+				liege = "d_bedford"
+				holder = 1000000
+			}
+			819.1.1 = {
+				liege = "d_bedford"
+				holder = 1100000
+			}
+			835.1.1 = {
+				liege = "d_bedford"
+				holder = 1110000
+			}
 			851.1.1 = {
 				liege = "d_bedford"
 				holder = 1112000
 			}
+			867.1.1 = {
+				liege = "d_bedford"
+				holder = 1112100
+			}
 		}
 			b_maldon = {
+				803.1.1 = { 
+					liege = "c_essex"
+					holder = 1000000
+				}
+				819.1.1 = { 
+					liege = "c_essex"
+					holder = 1100000
+				}
+				835.1.1 = { 
+					liege = "c_essex"
+					holder = 1110000
+				}
+				851.1.1 = { 
+					liege = "c_essex"
+					holder = 1112000
+				}
 				867.1.1 = { 
 					liege = "c_essex"
 					holder = 1112200
 				}
 			}
 			b_chelmsford = {
+				803.1.1 = { 
+					liege = "c_essex"
+					holder = 1000000
+				}
+				819.1.1 = { 
+					liege = "c_essex"
+					holder = 1100000
+				}
+				835.1.1 = { 
+					liege = "c_essex"
+					holder = 1110000
+				}
+				851.1.1 = { 
+					liege = "c_essex"
+					holder = 1112000
+				}
 				867.1.1 = {
 					liege = "c_essex"
 					holder = 1112300
 				}
 			}
 			b_dunmow = {
+				803.1.1 = { 
+					liege = "c_essex"
+					holder = 1000000
+				}
+				819.1.1 = { 
+					liege = "c_essex"
+					holder = 1100000
+				}
+				835.1.1 = { 
+					liege = "c_essex"
+					holder = 1110000
+				}
+				851.1.1 = { 
+					liege = "c_essex"
+					holder = 1112000
+				}
 				867.1.1 = {
 					liege = "c_essex"
 					holder = 1112400
 				}
 			}
 		c_bedford = {
+			803.1.1 = {
+				liege = "d_bedford"
+				holder = 1000000
+			}
+			819.1.1 = {
+				liege = "d_bedford"
+				holder = 1100000
+			}
+			835.1.1 = {
+				liege = "d_bedford"
+				holder = 1110000
+			}
 			851.1.1 = {
 				liege = "d_bedford"
 				holder = 1113000
 			}
+			867.1.1 = {
+				liege = "d_bedford"
+				holder = 1113100
+			}
 		}
 			b_ampthill = {
+				803.1.1 = {
+					liege = "c_bedford"
+					holder = 1000000
+				}
+				819.1.1 = {
+					liege = "c_bedford"
+					holder = 1100000
+				}
+				835.1.1 = {
+					liege = "c_bedford"
+					holder = 1110000
+				}
+				851.1.1 = {
+					liege = "c_bedford"
+					holder = 1113000
+				}
 				867.1.1 = {
 					liege = "c_bedford"
 					holder = 1113200
 				}
 			}
 			b_luton = {
+				803.1.1 = {
+					liege = "c_bedford"
+					holder = 1000000
+				}
+				819.1.1 = {
+					liege = "c_bedford"
+					holder = 1100000
+				}
+				835.1.1 = {
+					liege = "c_bedford"
+					holder = 1110000
+				}
+				851.1.1 = {
+					liege = "c_bedford"
+					holder = 1113000
+				}
 				867.1.1 = {
 					liege = "c_bedford"
 					holder = 1113300
@@ -91,18 +312,66 @@ k_england = {
 
 
 		c_hertfordshire = {
+			803.1.1 = {
+				liege = "d_bedford"
+				holder = 1000000
+			}
+			819.1.1 = {
+				liege = "d_bedford"
+				holder = 1100000
+			}
+			835.1.1 = {
+				liege = "d_bedford"
+				holder = 1110000
+			}
 			851.1.1 = {
 				liege = "d_bedford"
 				holder = 1115000
 			}
+			867.1.1 = {
+				liege = "d_bedford"
+				holder = 1115100
+			}
 		}
 			b_saint_albans = {
+				803.1.1 = {
+					liege = "c_hertfordshire"
+					holder = 1000000
+				}
+				819.1.1 = {
+					liege = "c_hertfordshire"
+					holder = 1100000
+				}
+				835.1.1 = {
+					liege = "c_hertfordshire"
+					holder = 1110000
+				}
+				851.1.1 = {
+					liege = "c_hertfordshire"
+					holder = 1115000
+				}
 				867.1.1 = {
 					liege = "c_hertfordshire"
 					holder = 1115200
 				}
 			}
 			b_hertford = {
+				803.1.1 = {
+					liege = "c_hertfordshire"
+					holder = 1000000
+				}
+				819.1.1 = {
+					liege = "c_hertfordshire"
+					holder = 1100000
+				}
+				835.1.1 = {
+					liege = "c_hertfordshire"
+					holder = 1110000
+				}
+				851.1.1 = {
+					liege = "c_hertfordshire"
+					holder = 1115000
+				}
 				867.1.1 = {
 					liege = "c_hertfordshire"
 					holder = 1115300
@@ -111,24 +380,88 @@ k_england = {
 
 
 		c_buckinghamshire = {
+			803.1.1 = {
+				liege = "d_bedford"
+				holder = 1000000
+			}
+			819.1.1 = {
+				liege = "d_bedford"
+				holder = 1100000
+			}
+			835.1.1 = {
+				liege = "d_bedford"
+				holder = 1110000
+			}
 			851.1.1 = {
 				liege = "d_bedford"
 				holder = 1114000
 			}
+			867.1.1 = {
+				liege = "d_bedford"
+				holder = 1114100
+			}
 		}
 			b_aylesbury = {
+				803.1.1 = {
+					liege = "c_buckinghamshire"
+					holder = 1000000
+				}
+				819.1.1 = {
+					liege = "c_buckinghamshire"
+					holder = 1100000
+				}
+				835.1.1 = {
+					liege = "c_buckinghamshire"
+					holder = 1110000
+				}
+				851.1.1 = {
+					liege = "c_buckinghamshire"
+					holder = 1114000
+				}
 				867.1.1 = {
 					liege = "c_buckinghamshire"
 					holder = 1114200
 				}
 			}
 			b_newport = {
+				803.1.1 = {
+					liege = "c_buckinghamshire"
+					holder = 1000000
+				}
+				819.1.1 = {
+					liege = "c_buckinghamshire"
+					holder = 1100000
+				}
+				835.1.1 = {
+					liege = "c_buckinghamshire"
+					holder = 1110000
+				}
+				851.1.1 = {
+					liege = "c_buckinghamshire"
+					holder = 1114000
+				}
 				867.1.1 = {
 					liege = "c_buckinghamshire"
 					holder = 1114300
 				}
 			}
 			b_wycombe = {
+				803.1.1 = {
+					liege = "c_buckinghamshire"
+					holder = 1000000
+				}
+				819.1.1 = {
+					liege = "c_buckinghamshire"
+					holder = 1100000
+				}
+				835.1.1 = {
+					liege = "c_buckinghamshire"
+					holder = 1110000
+				}
+				851.1.1 = {
+					liege = "c_buckinghamshire"
+					holder = 1114000
+				}
 				867.1.1 = {
 					liege = "c_buckinghamshire"
 					holder = 1114400
@@ -1112,81 +1445,287 @@ k_england = {
 
 
 	d_norfolk = {
+		803.1.1 = {
+			liege = k_england
+			holder = 1000000
+		}
+		819.1.1 = {
+			liege = k_england
+			holder = 1100000
+		}
 		835.1.1 = {
 			liege = k_england
 			holder = 1120000
 		}
+		851.1.1 = {
+			liege = k_england
+			holder = 1121000
+		}
+		867.1.1 = {
+			liege = k_england
+			holder = 1121100
+		}
 	}
 		c_norfolk = {
+			803.1.1 = {
+				liege = d_norfolk
+				holder = 1000000
+			}
+			819.1.1 = {
+				liege = d_norfolk
+				holder = 1100000
+			}
 			835.1.1 = {
 				liege = d_norfolk
 				holder = 1120000
 			}
+			851.1.1 = {
+				liege = d_norfolk
+				holder = 1121000
+			}
 			867.1.1 = {
 				change_development_level = 20
+				liege = d_norfolk
+				holder = 1121100
 			}
 		}
 			b_thetford = {
+				803.1.1 = {
+					liege = "c_norfolk"
+					holder = 1000000
+				}
+				819.1.1 = {
+					liege = "c_norfolk"
+					holder = 1100000
+				}
+				835.1.1 = {
+					liege = "c_norfolk"
+					holder = 1120000
+				}
+				851.1.1 = {
+					liege = "c_norfolk"
+					holder = 1121000
+				}
 				867.1.1 = {
 					liege = "c_norfolk"
 					holder = 1121200
 				}
 			}
 			b_walsingham = {
+				803.1.1 = {
+					liege = "c_norfolk"
+					holder = 1000000
+				}
+				819.1.1 = {
+					liege = "c_norfolk"
+					holder = 1100000
+				}
+				835.1.1 = {
+					liege = "c_norfolk"
+					holder = 1120000
+				}
+				851.1.1 = {
+					liege = "c_norfolk"
+					holder = 1121000
+				}
 				867.1.1 = {
 					liege = "c_norfolk"
 					holder = 1121300
 				}
 			}
 			b_lynn = {
+				803.1.1 = {
+					liege = "c_norfolk"
+					holder = 1000000
+				}
+				819.1.1 = {
+					liege = "c_norfolk"
+					holder = 1100000
+				}
+				835.1.1 = {
+					liege = "c_norfolk"
+					holder = 1120000
+				}
+				851.1.1 = {
+					liege = "c_norfolk"
+					holder = 1121000
+				}
 				867.1.1 = {
 					liege = "c_norfolk"
 					holder = 1121400
 				}
 			}
 		c_suffolk = {
+			803.1.1 = {
+				liege = d_norfolk
+				holder = 1000000
+			}
+			819.1.1 = {
+				liege = d_norfolk
+				holder = 1100000
+			}
+			835.1.1 = {
+				liege = d_norfolk
+				holder = 1120000
+			}
 			851.1.1 = {
 				liege = d_norfolk
 				holder = 1122000
 			}
+			867.1.1 = {
+				liege = d_norfolk
+				holder = 1122100
+			}
 		}
 			b_sudbury = {
+				803.1.1 = {
+					liege = "c_suffolk"
+					holder = 1000000
+				}
+				819.1.1 = {
+					liege = "c_suffolk"
+					holder = 1100000
+				}
+				835.1.1 = {
+					liege = "c_suffolk"
+					holder = 1120000
+				}
+				851.1.1 = {
+					liege = "c_suffolk"
+					holder = 1122000
+				}
 				867.1.1 = {
 					liege = "c_suffolk"
 					holder = 1122200
 				}
 			}
 			b_blything = {
+				803.1.1 = {
+					liege = "c_suffolk"
+					holder = 1000000
+				}
+				819.1.1 = {
+					liege = "c_suffolk"
+					holder = 1100000
+				}
+				835.1.1 = {
+					liege = "c_suffolk"
+					holder = 1120000
+				}
+				851.1.1 = {
+					liege = "c_suffolk"
+					holder = 1122000
+				}
 				867.1.1 = {
 					liege = "c_suffolk"
 					holder = 1122300
 				}
 			}
 			b_beodericsworth = {
+				803.1.1 = {
+					liege = "c_suffolk"
+					holder = 1000000
+				}
+				819.1.1 = {
+					liege = "c_suffolk"
+					holder = 1100000
+				}
+				835.1.1 = {
+					liege = "c_suffolk"
+					holder = 1120000
+				}
+				851.1.1 = {
+					liege = "c_suffolk"
+					holder = 1122000
+				}
 				867.1.1 = {
 					liege = "c_suffolk"
 					holder = 1122400
 				}
 			}
 		c_cambridgeshire = {
+			803.1.1 = {
+				liege = d_norfolk
+				holder = 1000000
+			}
+			819.1.1 = {
+				liege = d_norfolk
+				holder = 1100000
+			}
+			835.1.1 = {
+				liege = d_norfolk
+				holder = 1120000
+			}
 			851.1.1 = {
 				liege = d_norfolk
 				holder = 1123000
 			}
+			867.1.1 = {
+				liege = d_norfolk
+				holder = 1123100
+			}
 		}
 			b_radfield = {
+				803.1.1 = {
+					liege = "c_cambridgeshire"
+					holder = 1000000
+				}
+				819.1.1 = {
+					liege = "c_cambridgeshire"
+					holder = 1100000
+				}
+				835.1.1 = {
+					liege = "c_cambridgeshire"
+					holder = 1120000
+				}
+				851.1.1 = {
+					liege = "c_cambridgeshire"
+					holder = 1123000
+				}
 				867.1.1 = {
 					liege = "c_cambridgeshire"
 					holder = 1123200
 				}
 			}
 			b_papworth = {
+				803.1.1 = {
+					liege = "c_cambridgeshire"
+					holder = 1000000
+				}
+				819.1.1 = {
+					liege = "c_cambridgeshire"
+					holder = 1100000
+				}
+				835.1.1 = {
+					liege = "c_cambridgeshire"
+					holder = 1120000
+				}
+				851.1.1 = {
+					liege = "c_cambridgeshire"
+					holder = 1123000
+				}
 				867.1.1 = {
 					liege = "c_cambridgeshire"
 					holder = 1123300
 				}
 			}
 			b_ely = {
+				803.1.1 = {
+					liege = "c_cambridgeshire"
+					holder = 1000000
+				}
+				819.1.1 = {
+					liege = "c_cambridgeshire"
+					holder = 1100000
+				}
+				835.1.1 = {
+					liege = "c_cambridgeshire"
+					holder = 1120000
+				}
+				851.1.1 = {
+					liege = "c_cambridgeshire"
+					holder = 1123000
+				}
 				867.1.1 = {
 					liege = "c_cambridgeshire"
 					holder = 1123400
