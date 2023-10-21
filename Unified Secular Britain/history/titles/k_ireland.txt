@@ -1,66 +1,27 @@
-k_wales = {
+k_ireland = {
 	803.1.1 = {
 		holder = 1000000
-		change_development_level = 10
+		change_development_level = 5
 	}
 }
 
 
 
-	d_gwynedd = {
+	d_meath = {
 		803.1.1 = {
 			holder = 1000000
-			change_development_level = 15
+			change_development_level = 10
 		}
 	}
 
-		c_cardiganshire = {
-			803.1.1 = {
-				holder = 1000000
-				change_development_level = 20
-			}
-		}
-
-		c_merioneth = {
-			803.1.1 = {
-				holder = 1000000
-			}
-		}
-
-		c_caernarfonshire = {
-			803.1.1 = {
-				holder = 1000000
-			}
-		}
-
-		c_anglesey = {
-			803.1.1 = {
-				holder = 1000000
-			}
-		}
-
-		c_denbighshire = {
-			803.1.1 = {
-				holder = 1000000
-			}
-		}
-
-
-
-	d_powys = {
-		803.1.1 = {
-			holder = 1000000
-		}
-	}
-
-		c_maldwyn = {
+		c_dublin = {
 			803.1.1 = {
 				holder = 1000000
 				change_development_level = 15
 			}
 		}
 
-		c_sir_faesyfed = {
+		c_athlone = {
 			803.1.1 = {
 				holder = 1000000
 			}
@@ -68,38 +29,107 @@ k_wales = {
 
 
 
-	d_deheubarth = {
+	d_ulster = {
 		803.1.1 = {
 			holder = 1000000
 		}
 	}
 
-		c_carmarthenshire = {
+		c_ulster = {
 			803.1.1 = {
 				holder = 1000000
-				change_development_level = 15
+				change_development_level = 10
 			}
 		}
 
-		c_pembrokeshire = {
-			803.1.1 = {
-				holder = 1000000
-			}
-		}
-
-		c_glamorgan = {
+		c_oriel = {
 			803.1.1 = {
 				holder = 1000000
 			}
 		}
 
-		c_monmouthshire = {
+		c_ailech = {
 			803.1.1 = {
 				holder = 1000000
 			}
 		}
 
-		c_brecknockshire = {
+
+
+	d_connacht = {
+		803.1.1 = {
+			holder = 1000000
+		}
+	}
+
+		c_connacht = {
+			803.1.1 = {
+				holder = 1000000
+			}
+		}
+
+		c_mayo = {
+			803.1.1 = {
+				holder = 1000000
+				change_development_level = 10
+			}
+		}
+
+		c_breifne = {
+			803.1.1 = {
+				holder = 1000000
+			}
+		}
+
+
+
+	d_leinster = {
+		803.1.1 = {
+			holder = 1000000
+		}
+	}
+
+		c_leinster = {
+			803.1.1 = {
+				holder = 1000000
+				change_development_level = 10
+			}
+		}
+
+		c_ossory = {
+			803.1.1 = {
+				holder = 1000000
+			}
+		}
+
+
+
+	d_munster = {
+		803.1.1 = {
+			holder = 1000000
+		}
+	}
+
+		c_thomond = {
+			803.1.1 = {
+				holder = 1000000
+				change_development_level = 10
+			}
+		}
+
+		c_ennis = {
+			803.1.1 = {
+				holder = 1000000
+			}
+		}
+
+		c_ormond = {
+			803.1.1 = {
+				holder = 1000000
+			}
+		}
+
+		c_desmond = {
 			803.1.1 = {
 				holder = 1000000
 			}

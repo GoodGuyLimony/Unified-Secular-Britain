@@ -10,7 +10,7 @@
 	}
 	867.1.1 = {
 		buildings = {
-			curtain_walls_01
+			special_building = the_tower_of_london_01
 		}
 	}
 }
@@ -330,6 +330,28 @@
 	holding = city_holding
 }
 
+###c_hereford / Ergyng
+1632 = {	#Hereford
+	culture = unified
+	religion = secular
+	holding = castle_holding
+	767.1.1 = {
+		special_building = offas_dyke_01
+	}
+}
+1633 = {	#Wigmore
+	holding = church_holding
+	767.1.1 = {
+		special_building = offas_dyke_01
+	}
+}
+1634 = {	#Clifford
+	holding = city_holding
+	767.1.1 = {
+		special_building = offas_dyke_01
+	}
+}
+
 ###c_leicestershire
 1615 = {	#Leicester
 	culture = unified
@@ -425,28 +447,6 @@
 }
 1648 = {	#Bishop's Castle
 	holding = church_holding
-	767.1.1 = {
-		special_building = offas_dyke_01
-	}
-}
-
-###c_hereford / Ergyng
-1632 = {	#Hereford
-	culture = unified
-	religion = secular
-	holding = castle_holding
-	767.1.1 = {
-		special_building = offas_dyke_01
-	}
-}
-1633 = {	#Wigmore
-	holding = church_holding
-	767.1.1 = {
-		special_building = offas_dyke_01
-	}
-}
-1634 = {	#Clifford
-	holding = city_holding
 	767.1.1 = {
 		special_building = offas_dyke_01
 	}

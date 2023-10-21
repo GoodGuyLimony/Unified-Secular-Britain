@@ -3468,6 +3468,14 @@ e_britannia = {
 		holder = 1111100
 	}
 }
+k_mann_the_isles = {
+	803.1.1 = {
+		holder = 1000000
+		effect = {
+			set_capital_county = title:c_vestisland
+		}
+	}
+}
 
 e_roman_empire = {
 	3.1.27 = {

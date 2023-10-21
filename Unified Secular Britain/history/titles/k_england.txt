@@ -1,101 +1,676 @@
 k_england = {
-	867.1.1 = {
+	803.1.1 = {
 		holder = 1000000
+		change_development_level = 15
+	}
+	819.1.1 = {
+		holder = 1100000
+	}
+	835.1.1 = {
+		holder = 1110000
+	}
+	851.1.1 = {
+		holder = 1111000
+	}
+	867.1.1 = {
+		holder = 1111100
 	}
 }
 
 
 
 	d_bedford = {
-		867.1.1 = {
+		803.1.1 = {
 			holder = 1000000
+			change_development_level = 20
+		}
+		819.1.1 = {
+			holder = 1100000
+		}
+		835.1.1 = {
+			holder = 1110000
+		}
+		851.1.1 = {
+			holder = 1111000
+		}
+		867.1.1 = {
+			holder = 1111100
 		}
 	}
 
 		c_middlesex = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
+				change_development_level = 25
+			}
+			819.1.1 = {
+				holder = 1100000
+			}
+			835.1.1 = {
+				holder = 1110000
+			}
+			851.1.1 = {
+				holder = 1111000
+			}
+			867.1.1 = {
+				holder = 1111100
 			}
 		}
+			b_southwark = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1110000
+                }
+                851.1.1 = {
+                    holder = 1111000
+                }
+                867.1.1 = {
+                    holder = 1111200
+                }
+			}
+			b_woxbrigge = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1110000
+                }
+                851.1.1 = {
+                    holder = 1111000
+                }
+                867.1.1 = {
+                    holder = 1111300
+                }
+			}
+			b_gore = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1110000
+                }
+                851.1.1 = {
+                    holder = 1111000
+                }
+                867.1.1 = {
+                    holder = 1111400
+                }
+			}
+			b_brentford = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1110000
+                }
+                851.1.1 = {
+                    holder = 1111000
+                }
+                867.1.1 = {
+                    holder = 1111500
+                }
+			}
 
 		c_essex = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
+			819.1.1 = {
+				holder = 1100000
+			}
+			835.1.1 = {
+				holder = 1110000
+			}
+			851.1.1 = {
+				holder = 1112000
+				liege = "e_britannia"
+			}
+			867.1.1 = {
+				holder = 1112100
+				liege = "e_britannia"
+			}
 		}
+			b_maldon = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1110000
+                }
+                851.1.1 = {
+                    holder = 1112000
+					liege = "c_essex"
+                }
+                867.1.1 = {
+                    holder = 1112200
+					liege = "c_essex"
+                }
+			}
+			b_chelmsford = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1110000
+                }
+                851.1.1 = {
+                    holder = 1112000
+					liege = "c_essex"
+                }
+                867.1.1 = {
+                    holder = 1112300
+					liege = "c_essex"
+                }
+			}
+			b_dunmow = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1110000
+                }
+                851.1.1 = {
+                    holder = 1112000
+					liege = "c_essex"
+                }
+                867.1.1 = {
+                    holder = 1112400
+					liege = "c_essex"
+                }
+			}
 
 		c_bedford = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
+			819.1.1 = {
+				holder = 1100000
+			}
+			835.1.1 = {
+				holder = 1110000
+			}
+			851.1.1 = {
+				holder = 1113000
+				liege = "e_britannia"
+			}
+			867.1.1 = {
+				holder = 1113100
+				liege = "e_britannia"
+			}
 		}
+			b_ampthill = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1110000
+                }
+                851.1.1 = {
+                    holder = 1113000
+					liege = "c_bedford"
+                }
+                867.1.1 = {
+                    holder = 1113200
+					liege = "c_bedford"
+                }
+			}
+			b_luton = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1110000
+                }
+                851.1.1 = {
+                    holder = 1113000
+					liege = "c_bedford"
+                }
+                867.1.1 = {
+                    holder = 1113300
+					liege = "c_bedford"
+                }
+			}
 
 		c_hertfordshire = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
+			819.1.1 = {
+				holder = 1100000
+			}
+			835.1.1 = {
+				holder = 1110000
+			}
+			851.1.1 = {
+				holder = 1114000
+				liege = "e_britannia"
+			}
+			867.1.1 = {
+				holder = 1114100
+				liege = "e_britannia"
+			}
 		}
+			b_saint_albans = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1110000
+                }
+                851.1.1 = {
+                    holder = 1114000
+					liege = "c_hertfordshire"
+                }
+                867.1.1 = {
+                    holder = 1114200
+					liege = "c_hertfordshire"
+                }
+			}
+			b_hertford = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1110000
+                }
+                851.1.1 = {
+                    holder = 1114000
+					liege = "c_hertfordshire"
+                }
+                867.1.1 = {
+                    holder = 1114300
+					liege = "c_hertfordshire"
+                }
+			}
 
 		c_buckinghamshire = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
+			819.1.1 = {
+				holder = 1100000
+			}
+			835.1.1 = {
+				holder = 1110000
+			}
+			851.1.1 = {
+				holder = 1115000
+				liege = "e_britannia"
+			}
+			867.1.1 = {
+				holder = 1115100
+				liege = "e_britannia"
+			}
 		}
+			b_aylesbury = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1110000
+                }
+                851.1.1 = {
+                    holder = 1115000
+					liege = "c_buckinghamshire"
+                }
+                867.1.1 = {
+                    holder = 1115200
+					liege = "c_buckinghamshire"
+                }
+			}
+			b_newport = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1110000
+                }
+                851.1.1 = {
+                    holder = 1115000
+					liege = "c_buckinghamshire"
+                }
+                867.1.1 = {
+                    holder = 1115300
+					liege = "c_buckinghamshire"
+                }
+			}
+			b_wycombe = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1110000
+                }
+                851.1.1 = {
+                    holder = 1115000
+					liege = "c_buckinghamshire"
+                }
+                867.1.1 = {
+                    holder = 1115400
+					liege = "c_buckinghamshire"
+                }
+			}
 
 
 
 	d_northumberland = {
-		867.1.1 = {
+		803.1.1 = {
 			holder = 1000000
+		}
+		819.1.1 = {
+			holder = 1100000
+		}
+		835.1.1 = {
+			holder = 1120000
+			liege = "k_england"
+		}
+		851.1.1 = {
+			holder = 1121000
+			liege = "k_england"
+		}
+		867.1.1 = {
+			holder = 1121100
+			liege = "k_england"
 		}
 	}
 
 		c_northumberland = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
+				change_development_level = 20
+			}
+			819.1.1 = {
+				holder = 1100000
+			}
+			835.1.1 = {
+				holder = 1120000
+				liege = "k_england"
+			}
+			851.1.1 = {
+				holder = 1121000
+				liege = "k_england"
+			}
+			867.1.1 = {
+				holder = 1121100
+				liege = "k_england"
 			}
 		}
+			b_rothbury = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1120000
+					liege = "k_england"
+                }
+                851.1.1 = {
+                    holder = 1121000
+					liege = "d_northumberland"
+                }
+                867.1.1 = {
+                    holder = 1121200
+					liege = "d_northumberland"
+                }
+			}
+			b_lindisfarne = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1120000
+					liege = "k_england"
+                }
+                851.1.1 = {
+                    holder = 1121000
+					liege = "d_northumberland"
+                }
+                867.1.1 = {
+                    holder = 1121300
+					liege = "d_northumberland"
+                }
+			}
+			b_hexham = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1120000
+					liege = "k_england"
+                }
+                851.1.1 = {
+                    holder = 1121000
+					liege = "d_northumberland"
+                }
+                867.1.1 = {
+                    holder = 1121400
+					liege = "d_northumberland"
+                }
+			}
 
 		c_durham = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
+			819.1.1 = {
+				holder = 1100000
+			}
+			835.1.1 = {
+				holder = 1120000
+				liege = "k_england"
+			}
+			851.1.1 = {
+				holder = 1122000
+				liege = "d_northumberland"
+			}
+			867.1.1 = {
+				holder = 1122100
+				liege = "d_northumberland"
+			}
 		}
+			b_hartlepool = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1120000
+					liege = "k_england"
+                }
+                851.1.1 = {
+                    holder = 1122000
+					liege = "d_northumberland"
+                }
+                867.1.1 = {
+                    holder = 1122200
+					liege = "c_durham"
+                }
+			}
+			b_darlington = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1120000
+					liege = "k_england"
+                }
+                851.1.1 = {
+                    holder = 1122000
+					liege = "d_northumberland"
+                }
+                867.1.1 = {
+                    holder = 1122300
+					liege = "c_durham"
+                }
+			}
 
 		c_cumberland = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
+			819.1.1 = {
+				holder = 1100000
+			}
+			835.1.1 = {
+				holder = 1120000
+				liege = "k_england"
+			}
+			851.1.1 = {
+				holder = 1123000
+				liege = "d_northumberland"
+			}
+			867.1.1 = {
+				holder = 1123100
+				liege = "d_northumberland"
+			}
 		}
+			b_whitehaven = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1120000
+					liege = "k_england"
+                }
+                851.1.1 = {
+                    holder = 1123000
+					liege = "d_northumberland"
+                }
+                867.1.1 = {
+                    holder = 1123200
+					liege = "c_cumberland"
+                }
+			}
+			b_furness = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1120000
+					liege = "k_england"
+                }
+                851.1.1 = {
+                    holder = 1123000
+					liege = "d_northumberland"
+                }
+                867.1.1 = {
+                    holder = 1123300
+					liege = "c_cumberland"
+                }
+			}
+			b_wigton = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1120000
+					liege = "k_england"
+                }
+                851.1.1 = {
+                    holder = 1123000
+					liege = "d_northumberland"
+                }
+                867.1.1 = {
+                    holder = 1123400
+					liege = "c_cumberland"
+                }
+			}
 
 
 
 	d_lancaster = {
-		867.1.1 = {
+		803.1.1 = {
 			holder = 1000000
 		}
 	}
 
 		c_lancashire = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
+				change_development_level = 20
 			}
 		}
 
 		c_westmorland = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
 
 		c_cheshire = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
 
 		c_derby = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
@@ -103,31 +678,32 @@ k_england = {
 
 
 	d_york = {
-		867.1.1 = {
+		803.1.1 = {
 			holder = 1000000
 		}
 	}
 
 		c_north_riding = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
+				change_development_level = 20
 			}
 		}
 
 		c_east_riding = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
 
 		c_west_riding = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
 
 		c_lincolnshire = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
@@ -135,25 +711,26 @@ k_england = {
 
 
 	d_norfolk = {
-		867.1.1 = {
+		803.1.1 = {
 			holder = 1000000
 		}
 	}
 
 		c_norfolk = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
+				change_development_level = 20
 			}
 		}
 
 		c_suffolk = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
 
 		c_cambridgeshire = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
@@ -161,61 +738,64 @@ k_england = {
 
 
 	d_hereford = {
-		867.1.1 = {
+		803.1.1 = {
 			holder = 1000000
 		}
 	}
 
 		c_warwickshire = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
+				change_development_level = 20
+			}
+		}
+
+		c_hereford = {
+			803.1.1 = {
+				holder = 1000000
+				change_development_level = 15
+				de_jure_liege = d_hereford
 			}
 		}
 
 		c_leicestershire = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
 
 		c_nottinghamshire = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
 
 		c_staffordshire = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
 
 		c_worcestershire = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
 
 		c_huntingdonshire = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
 
 		c_northamptonshire = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
 
 		c_shropshire = {
-			867.1.1 = {
-				holder = 1000000
-			}
-		}
-
-		c_hereford = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
@@ -223,31 +803,32 @@ k_england = {
 
 
 	d_gloucester = {
-		867.1.1 = {
+		803.1.1 = {
 			holder = 1000000
 		}
 	}
 
 		c_gloucestershire = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
+				change_development_level = 20
 			}
 		}
 
 		c_wiltshire = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
 
 		c_oxfordshire = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
 
 		c_berkshire = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
@@ -255,25 +836,26 @@ k_england = {
 
 
 	d_canterbury = {
-		867.1.1 = {
+		803.1.1 = {
 			holder = 1000000
 		}
 	}
 
 		c_kent = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
+				change_development_level = 20
 			}
 		}
 
 		c_surrey = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
 
 		c_sussex = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
@@ -281,31 +863,32 @@ k_england = {
 
 
 	d_somerset = {
-		867.1.1 = {
+		803.1.1 = {
 			holder = 1000000
 		}
 	}
 
 		c_hampton = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
+				change_development_level = 20
 			}
 		}
 
 		c_isle_of_wight = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
 
 		c_dorset = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
 
 		c_somerset = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}
@@ -313,19 +896,20 @@ k_england = {
 
 
 	d_cornwall = {
-		867.1.1 = {
+		803.1.1 = {
 			holder = 1000000
 		}
 	}
 
 		c_devon = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
+				change_development_level = 20
 			}
 		}
 
 		c_cornwall = {
-			867.1.1 = {
+			803.1.1 = {
 				holder = 1000000
 			}
 		}

@@ -2,224 +2,145 @@
 ##d_albany ###################################
 ###c_gowrie
 1741 = {	#Perth / b_st_johnston
-	culture = pictish
-	religion = catholic
-	holding = tribal_holding
-	900.1.1 = {
-		culture = gaelic
-	}
-	935.1.1 = {
-		holding = castle_holding
-	}
+	culture = unified
+	religion = secular
+	holding = castle_holding
 }
 1742 = {	#Coupar Angus
-	holding = none
-	1164.1.1 = {
-		holding = church_holding
-		#Cisterian abbay founded
-	}
+	holding = city_holding
 }
 1745 = {	#Crieff
-	holding = none
+	holding = church_holding
 }
 
 ###c_fife
 1724 = {	#Dunfermline
-	culture = pictish
-	religion = catholic
-	holding = tribal_holding
-	935.1.1 = {
-		holding = castle_holding
-	}
-	950.1.1 = {
-		culture = gaelic
-	}
-	1130.1.1 = {
-		culture = scottish
-	}
+	culture = unified
+	religion = secular
+	holding = castle_holding
 }
 1725 = {	#Kircaldy / Kirckaldy
-	holding = none
-	1066.1.1 = {
-		holding = city_holding
-		#First official mention in 1075
-	}
+	holding = city_holding
 }
 1726 = {	#St Andrews
 	holding = church_holding
-	#important church since 747 and bishopric since XIth
 }
 
 ###c_strathearn
 1734 = {	#Stirling
-	culture = cumbrian
-	religion = catholic
-	holding = tribal_holding
-	900.1.1 = {
-		culture = gaelic
-	}
-	935.1.1 = {
-		holding = castle_holding
-	}
-	1130.1.1 = {
-		culture = scottish
-	}
+	culture = unified
+	religion = secular
+	holding = castle_holding
 }
 1735 = {	#Callander
 	holding = church_holding
-	#Unclear, but potentially 
 }
 1736 = {	#Clackmannan
-	holding = none
+	holding = city_holding
 }
 
 ###c_atholl
 1743 = {	#Dunkeld
-	culture = gaelic
-	religion = catholic
-	holding = tribal_holding
-	935.1.1 = {
-		holding = castle_holding
-	}
+	culture = unified
+	religion = secular
+	holding = castle_holding
 }
 1744 = {	#Aberfeldy
-	holding = none
+	holding = city_holding
 }
 
 ###c_angus
 1720 = {	#Dundee
-	culture = pictish
-	religion = catholic
-	holding = tribal_holding
-	935.1.1 = {
-		holding = castle_holding
-	}
-	950.1.1 = {
-		culture = gaelic
-	}
-	1153.1.1 = {
-		culture = scottish
-	}
+	culture = unified
+	religion = secular
+	holding = castle_holding
 }
 1721 = {	#Kirriemuir
-	holding = church_holding
-	#Potentially a rather ancient place with spitirual importance
+	holding = city_holding
 }
 1723 = {	#Mar
-	holding = none
+	holding = church_holding
 }
 
 ###c_mearns
 1718 = {	#Aberdeen
-	culture = pictish
-	religion = catholic
-	holding = tribal_holding
-	935.1.1 = {
-		holding = castle_holding
-	}
-	1000.1.1 = {
-		culture = gaelic
-	}
-	1153.1.1 = {
-		culture = scottish
-	}
+	culture = unified
+	religion = secular
+	holding = castle_holding
 }
 1719 = {	#Kincardine
-	holding = none
+	holding = city_holding
 }
 1722 = {	#Ballater
-	holding = none
+	holding = church_holding
 }
 
 ##d_the_isles ###################################
 ###c_isle_of_man
 1698 = {	#Castletown
-	culture = gaelic
-	religion = catholic
-	holding = tribal_holding
-	935.1.1 = {
-		holding = castle_holding
-	}
+	culture = unified
+	religion = secular
+	holding = castle_holding
 }
 1699 = {	#Ramsey
-	holding = none
+	holding = city_holding
 }
 
 ##d_galloway ###################################
 ###c_lennox
 1695 = {	#Dumbarton
-	culture = cumbrian
-	religion = catholic
+	culture = unified
+	religion = secular
 	holding = castle_holding
-	900.1.1 = {
-		culture = gaelic
-	}
-	1222.1.1 = {
-		culture = scottish
-	}
 }
 1696 = {	#Glasgow
 	holding = church_holding
-	#Potentially built in the XIth century, around a church
 }
 1697 = {	#Meneith / Menteith
-	holding = none
+	holding = city_holding
 }
 
 ###c_galloway
 1682 = {	#Kilcudbrite
-	culture = cumbrian
-	religion = catholic
+	culture = unified
+	religion = secular
 	holding = castle_holding
-	900.1.1 = {
-		culture = gaelic
-	}
 }
 1683 = {	#Sanquhar
-	holding = city_holding
-	#Unclear, but apparently already popular in ancient times, and received waves of settlers in the XIIIth
+	holding = church_holding
 }
 1684 = {	#Wigtown
-	holding = none
+	holding = city_holding
 }
 
 ###c_carrick
 1680 = {	#Maybole
-	culture = cumbrian
-	religion = catholic
+	culture = unified
+	religion = secular
 	holding = castle_holding
-	900.1.1 = {
-		culture = gaelic
-	}
 }
 1685 = {	#Girvan
-	holding = none
+	holding = city_holding
 }
 
 ###c_ayrshire
 1686 = {	#Kyle
-	culture = cumbrian
-	religion = catholic
+	culture = unified
+	religion = secular
 	holding = castle_holding
-	1000.1.1 = {
-		culture = gaelic
-	}
 }
 1687 = {	#Strathgrythe
-	holding = none
+	holding = church_holding
 }
 1688 = {	#Cunningham
-	holding = none
+	holding = city_holding
 }
 
 ###c_annandale
 1679 = {	#Annan
-	culture = cumbrian
-	religion = catholic
-	holding = castle_holding	
-	1100.11.11 = {
-		culture = scottish
-	}
+	culture = unified
+	religion = secular
+	holding = castle_holding
 }
 1681 = {	#Dumfries
 	holding = city_holding
@@ -228,111 +149,68 @@
 ##d_western_isles ###################################
 ###c_inner_hebrides
 1689 = {	#Islay
-	culture = gaelic
-	religion = insular_celtic
-	holding = tribal_holding
-	895.1.1 = {	#Incorporated into Mann & the Isles in 886-ish, then give it a decade for the conversion job to root out the last of the local holdouts.
-		religion = catholic
-	}
-	935.1.1 = {
-		holding = castle_holding
-	}
+	culture = unified
+	religion = secular
+	holding = castle_holding
 }
 1690 = {	#Arran
-	holding = none
-	935.1.1 = {
-		holding = city_holding
-	}
+	holding = city_holding
 }
 1691 = {	#Mull
 	holding = church_holding
-	#settled by irish catholics before CK timeframe
 }
 
 ###c_outer_hebrides
 1692 = {	#Skye
-	culture = gaelic
-	religion = insular_celtic
-	holding = tribal_holding
-	890.1.1 = {	#Presumably went a little earlier than the last holdouts in Iona.
-		religion = catholic
-	}
-	935.1.1 = {
-		holding = castle_holding
-	}
+	culture = unified
+	religion = secular
+	holding = castle_holding
 }
 1693 = {	#Lewis
-	holding = none
-	935.1.1 = {
-		holding = city_holding
-	}
-	#Settled before the vikings who then came there, settled and intermarried
+	holding = city_holding
 }
 1694 = {	#The Uists
-	holding = none
+	holding = church_holding
 }
 
 ###c_argyll
 1700 = {	#Kilmarten
-	culture = gaelic
-	religion = insular_celtic
-	holding = tribal_holding
-	890.1.1 = {	#Presumably went a little earlier than the last holdouts in Iona.
-		religion = catholic
-	}
-	935.1.1 = {
-		holding = castle_holding
-	}
+	culture = unified
+	religion = secular
+	holding = castle_holding
 }
 1701 = {	#Glencoe
-	holding = none
+	holding = church_holding
 }
 1702 = {	#Lomond
-	holding = none
+	holding = city_holding
 }
 35 = {		#ARDNAMURCHON
-	holding = none
-	935.1.1 = {
-		holding = city_holding
-	}
-	#Apparently already populated pre CK timeframe
+	holding = city_holding
 }
 
 ##d_lothian ###################################
 ###c_lothian
 1727 = {	#Edinburgh
-	culture = anglo_saxon
-	religion = catholic
+	culture = unified
+	religion = secular
 	holding = castle_holding
-	1000.1.1 = {
-		culture = scottish
-	}
-	1066.1.1 = {
-		buildings = {
-			curtain_walls_01
-			#military_camps_01
-			#pastures_01
-		}
-	}
 }
 1728 = {	#Haddington
-	holding = none
-}
-1729 = {	#Galashiels
 	holding = city_holding
 }
+1729 = {	#Galashiels
+	holding = church_holding
+}
 1730 = {	#Penicuick
-	holding = none
+	holding = city_holding
 }
 
 ###c_dunbar
 1676 = {	#Dunbar
-	culture = anglo_saxon
-	religion = catholic
+	culture = unified
+	religion = secular
 	holding = castle_holding
-	1000.1.1 = {
-		culture = scottish
-	}
 }
 1675 = {	#Berwick
 	holding = city_holding
@@ -340,39 +218,25 @@
 
 ###c_teviotdale
 1677 = {	#Kelso
-	culture = anglo_saxon
-	religion = catholic
+	culture = unified
+	religion = secular
 	holding = castle_holding
-	1000.1.1 = {
-		culture = scottish
-	}
 }
 1678 = {	#Jedburgh
-	holding = church_holding
-	#Church built in the IXth
+	holding = city_holding
 }
 1740 = {	#Selkirk
-	holding = none
+	holding = church_holding
 }
 
 ###c_linlithgowshire
 1731 = {	#Linlithgow
-	culture = anglo_saxon
-	religion = catholic
-	holding = tribal_holding
-	935.1.1 = {
-		holding = castle_holding
-	}
-	1000.1.1 = {
-		culture = scottish
-	}
+	culture = unified
+	religion = secular
+	holding = castle_holding
 }
 1732 = {	#Queensferry
-	holding = none
-	1066.1.1 = {
-		holding = city_holding
-		#Apparently founded around 1068
-	}
+	holding = city_holding
 }
 1733 = {	#Falkirk
 	holding = church_holding
@@ -380,152 +244,98 @@
 
 ###c_lanarkshire
 1737 = {	#Lanark
-	culture = cumbrian
-	religion = catholic
+	culture = unified
+	religion = secular
 	holding = castle_holding
-	1000.1.1 = {
-		culture = scottish
-	}
 }
 1738 = {	#Cadyou
-	holding = none
+	holding = church_holding
 }
 1739 = {	#Biggar
-	holding = none
-	1100.1.1 = {
-		holding = city_holding
-	}
+	holding = city_holding
 }
 
 ##d_moray ###################################
 ###c_moray
 1715 = {	#Elgin
-	culture = gaelic
-	religion = catholic
-	holding = tribal_holding
-	935.1.1 = {
-		holding = castle_holding
-	}
-	1153.1.1 = {
-		culture = scottish
-	}
+	culture = unified
+	religion = secular
+	holding = castle_holding
 }
 1716 = {	#Keith
-	holding = none
-	#Oldest part apparently dates back to 1180
+	holding = city_holding
 }
 1717 = {	#Garioch
-	holding = none
+	holding = church_holding
 }
 
 ###c_ross
 1703 = {	#Dingwall
-	culture = gaelic
-	religion = insular_celtic
-	holding = tribal_holding
-	890.1.1 = {	#Presumably went a little earlier than the last holdouts in Iona.
-		religion = catholic
-	}
-	935.1.1 = {
-		holding = castle_holding
-	}
+	culture = unified
+	religion = secular
+	holding = castle_holding
 }
 1704 = {	#Gairloch
-	holding = none
+	holding = city_holding
 }
 8777 = {	#Tain
-	holding = none
-	1066.1.1 = {
-		holding = city_holding
-		#Town charters in 1066
-	}
+	holding = city_holding
 }
 8778 = {	#Applecross
 	holding = church_holding
-	#Very old monastery in the area
 }
 
 ###c_buchan
 1712 = {	#Banff
-	culture = pictish
-	religion = catholic
-	holding = tribal_holding
-	935.1.1 = {
-		holding = castle_holding
-	}
-	950.1.1 = {
-		culture = gaelic
-	}
-	1153.1.1 = {
-		culture = scottish
-	}
+	culture = unified
+	religion = secular
+	holding = castle_holding
 }
 1713 = {	#Mortlach
-	holding = none
-	#Something around the XIIth century ?
+	holding = church_holding
 }
 1714 = {	#Peterhead
-	holding = none
+	holding = city_holding
 }
 
 ###c_sutherland
 1705 = {	#Dornoch
-	culture = gaelic
-	religion = insular_celtic
-	holding = tribal_holding
-	890.1.1 = {	#Presumably went a little earlier than the last holdouts in Iona.
-		religion = catholic
-	}
-	935.1.1 = {
-		holding = castle_holding
-	}
+	culture = unified
+	religion = secular
+	holding = castle_holding
 }
 1706 = {	#Durness
-	holding = none
+	holding = city_holding
 }
 8779 = {	#Assynt
-	holding = none
+	holding = church_holding
 }
 
 ###c_caithness
 1707 = {	#Thurso
-	culture = gaelic
-	religion = insular_celtic
-	holding = tribal_holding
-	890.1.1 = {	#Presumably went a little earlier than the last holdouts in Iona.
-		religion = catholic
-	}
-	935.1.1 = {
-		holding = castle_holding
-	}
+	culture = unified
+	religion = secular
+	holding = castle_holding
 }
 1708 = {	#Wick
-	holding = church_holding
-	#Irish patron of Wick lived in the area during the VIIIth, must have been settled by then
+	holding = city_holding
 }
 
 ###c_inverness
 1709 = {	#Inverness
-	culture = gaelic
-	religion = insular_celtic
-	holding = tribal_holding
-	890.1.1 = {	#Presumably went a little earlier than the last holdouts in Iona.
-		religion = catholic
-	}
-	935.1.1 = {
-		holding = castle_holding
-	}
+	culture = unified
+	religion = secular
+	holding = castle_holding
 }
 1710 = {	#Badenoch
-	holding = none
+	holding = church_holding
 }
 1711 = {	#Glenfinnan
-	holding = none
+	holding = city_holding
 }
 8775 = {	#Urquhart
-	holding = none
-	#Castle built in the XIIIth century
+	holding = city_holding
 }
 8776 = {	#Glenelg
-	holding = none
+	holding = city_holding
 }
