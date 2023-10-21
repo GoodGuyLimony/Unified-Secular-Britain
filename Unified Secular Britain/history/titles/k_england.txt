@@ -71,6 +71,7 @@ k_england = {
                 }
                 867.1.1 = {
                     holder = 1111200
+					liege = "c_middlesex"
                 }
 			}
 			b_woxbrigge = {
@@ -88,6 +89,7 @@ k_england = {
                 }
                 867.1.1 = {
                     holder = 1111300
+					liege = "c_middlesex"
                 }
 			}
 			b_gore = {
@@ -105,6 +107,7 @@ k_england = {
                 }
                 867.1.1 = {
                     holder = 1111400
+					liege = "c_middlesex"
                 }
 			}
 			b_brentford = {
@@ -122,6 +125,7 @@ k_england = {
                 }
                 867.1.1 = {
                     holder = 1111500
+					liege = "c_middlesex"
                 }
 			}
 
@@ -406,15 +410,15 @@ k_england = {
 		}
 		835.1.1 = {
 			holder = 1120000
-			liege = "k_england"
+			liege = "e_britannia"
 		}
 		851.1.1 = {
 			holder = 1121000
-			liege = "k_england"
+			liege = "e_britannia"
 		}
 		867.1.1 = {
 			holder = 1121100
-			liege = "k_england"
+			liege = "e_britannia"
 		}
 	}
 
@@ -428,15 +432,15 @@ k_england = {
 			}
 			835.1.1 = {
 				holder = 1120000
-				liege = "k_england"
+				liege = "e_britannia"
 			}
 			851.1.1 = {
 				holder = 1121000
-				liege = "k_england"
+				liege = "e_britannia"
 			}
 			867.1.1 = {
 				holder = 1121100
-				liege = "k_england"
+				liege = "e_britannia"
 			}
 		}
 			b_rothbury = {
@@ -448,7 +452,7 @@ k_england = {
                 }
                 835.1.1 = {
                     holder = 1120000
-					liege = "k_england"
+					liege = "e_britannia"
                 }
                 851.1.1 = {
                     holder = 1121000
@@ -468,7 +472,7 @@ k_england = {
                 }
                 835.1.1 = {
                     holder = 1120000
-					liege = "k_england"
+					liege = "e_britannia"
                 }
                 851.1.1 = {
                     holder = 1121000
@@ -488,7 +492,7 @@ k_england = {
                 }
                 835.1.1 = {
                     holder = 1120000
-					liege = "k_england"
+					liege = "e_britannia"
                 }
                 851.1.1 = {
                     holder = 1121000
@@ -509,7 +513,7 @@ k_england = {
 			}
 			835.1.1 = {
 				holder = 1120000
-				liege = "k_england"
+				liege = "e_britannia"
 			}
 			851.1.1 = {
 				holder = 1122000
@@ -529,7 +533,7 @@ k_england = {
                 }
                 835.1.1 = {
                     holder = 1120000
-					liege = "k_england"
+					liege = "e_britannia"
                 }
                 851.1.1 = {
                     holder = 1122000
@@ -549,7 +553,7 @@ k_england = {
                 }
                 835.1.1 = {
                     holder = 1120000
-					liege = "k_england"
+					liege = "e_britannia"
                 }
                 851.1.1 = {
                     holder = 1122000
@@ -570,7 +574,7 @@ k_england = {
 			}
 			835.1.1 = {
 				holder = 1120000
-				liege = "k_england"
+				liege = "e_britannia"
 			}
 			851.1.1 = {
 				holder = 1123000
@@ -590,7 +594,7 @@ k_england = {
                 }
                 835.1.1 = {
                     holder = 1120000
-					liege = "k_england"
+					liege = "e_britannia"
                 }
                 851.1.1 = {
                     holder = 1123000
@@ -610,7 +614,7 @@ k_england = {
                 }
                 835.1.1 = {
                     holder = 1120000
-					liege = "k_england"
+					liege = "e_britannia"
                 }
                 851.1.1 = {
                     holder = 1123000
@@ -630,7 +634,7 @@ k_england = {
                 }
                 835.1.1 = {
                     holder = 1120000
-					liege = "k_england"
+					liege = "e_britannia"
                 }
                 851.1.1 = {
                     holder = 1123000
@@ -648,6 +652,21 @@ k_england = {
 		803.1.1 = {
 			holder = 1000000
 		}
+		819.1.1 = {
+			holder = 1100000
+		}
+		835.1.1 = {
+			holder = 1130000
+            liege = "e_britannia"
+		}
+		851.1.1 = {
+			holder = 1131000
+            liege = "e_britannia"
+		}
+		867.1.1 = {
+			holder = 1131100
+            liege = "e_britannia"
+		}
 	}
 
 		c_lancashire = {
@@ -655,7 +674,42 @@ k_england = {
 				holder = 1000000
 				change_development_level = 20
 			}
+			819.1.1 = {
+				holder = 1100000
+			}
+			835.1.1 = {
+				holder = 1130000
+				liege = "e_britannia"
+			}
+			851.1.1 = {
+				holder = 1131000
+				liege = "e_britannia"
+			}
+			867.1.1 = {
+				holder = 1131100
+				liege = "e_britannia"
+			}
 		}
+			b_salford = {
+				803.1.1 = {
+					holder = 1000000
+				}
+                819.1.1 = {
+                    holder = 1100000
+                }
+                835.1.1 = {
+                    holder = 1130000
+					liege = "e_britannia"
+                }
+                851.1.1 = {
+                    holder = 1131000
+					liege = "d_lancaster"
+                }
+                867.1.1 = {
+                    holder = 1131200
+					liege = "c_lancashire"
+                }
+			}
 
 		c_westmorland = {
 			803.1.1 = {
