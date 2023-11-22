@@ -3,4 +3,4 @@ tags={
 	"Map"
 }
 name="Unified Secular Britain"
-supported_version="1.10.2"
+supported_version="1.11.0.1"
